@@ -1,0 +1,188 @@
+{
+    "1": {
+    "Name": "Demons",
+    "Category": 1,
+    "Upcategory": "Contents",
+    "Subcategories": [
+    "Shadow",
+    "Guardian",
+    "Imp"
+    ],
+    "Description": "Infernal creatures that inhabit hell. They pose a special danger in places of large concentrations of flammable things. Possess the power of infernal fire. Meet near the opened gate to hell.",
+    "Hints": "If you go on a mission with them, take a fire extinguisher, a sphere of water and ointment from burns with you."
+},
+
+    "2": {
+    "Name": "Shadow",
+    "Category": 2,
+    "Upcategory": "Demons",
+    "Description": "Shadows of demons coming from hell. They know how to transform their inner fire into a sharp dagger. They can merge with ordinary shadows.",
+    "Enemy": [
+    "Imp",
+    "Glowworm"
+    ],
+    "Hints": [
+    "Take more light with you. They are afraid of him."
+    ],
+    "Picture": ":/picture/Picture/Lou randomly scribbles.gif"
+},
+
+    "3": {
+    "Name": "Guardian",
+    "Category": 2,
+    "Upcategory": "Demons",
+    "Description": "Large sculptures with dangerous weapons. Located near any open gate. Do not let anyone in.",
+    "Enemy": [
+    ""
+    ],
+    "Hints": [
+    "He will not touch you if you suddenly, of course, do not decide to cross the gate."
+    ],
+    "Picture": ":/picture/Picture/Take Notes from the Awesome Pixel Art in Duelyst.gif"
+ },
+
+    "4": {
+    "Name": "Imp",
+    "Category": 2,
+    "Upcategory": "Demons",
+    "Description": "Cute, but very dangerous creatures. Although they are stupid, they often take in quantity. If somewhere there is one imp, then there will be several more. Spit fire.",
+    "Enemy": [
+    ""
+    ],
+    "Hints": [
+    "Extremely slow.",
+    "Afraid of water."
+    ],
+    "Picture": ":/picture/Picture/Imgur2.gif"
+},
+
+    "5": {
+    "Name": "Undead",
+    "Category": 1,
+    "Upcategory": "Contents",
+    "Subcategories": [
+    "Dragon",
+    "Many faces",
+    "Flesh"
+    ],
+    "Description": "Rising from the graves and collected from the remains of the bodies of the creature. I do not feel pain and hunger. They cannot get sick or be poisoned. All of us will one day be one of them.",
+    "Hints": "Afraid of holy water and holy paraphernalia, as well as consecrated weapons."
+},
+
+    "6": {
+    "Name": "Dragon",
+    "Category": 2,
+    "Upcategory": "Undead",
+    "Description": "The huge skeleton of a dragon. Immune to sword and arrow attacks. He uses shields that are frozen in his bones as his scales.",
+    "Enemy": [
+    "Flesh",
+    "Imp"
+    ],
+    "Hints": [
+    "Use holy weapons and pray, maybe this will help."
+    ],
+    "Picture": ":/picture/Picture/The Journey of Martinsen 962.gif"
+},
+
+    "7": {
+    "Name": "Many faces",
+    "Category": 2,
+    "Upcategory": "Undead",
+    "Description": "The skeleton, whose torso is covered with alien flesh, creating a huge, all-consuming mouth. Able to levitate. Is an omnivore.",
+    "Enemy": [
+    ""
+    ],
+    "Hints": [
+    "Make sure that he does not gobble up you.",
+    "The mouth is the most vulnerable part."
+    ],
+    "Picture": ":/picture/Picture/WiffleGif has the awesome gifs on the internets_ pixel art skeleton gifs, reaction gifs, cat gifs, and so much more_.gif"
+},
+
+    "8": {
+    "Name": "Flesh",
+    "Category": 2,
+    "Upcategory": "Undead",
+    "Description": "A creature collected from pieces of corpses. In size they can reach the size of a house. It has several limbs, mouths, eyes, etc.",
+    "Enemy": [
+    "Shadow"
+    ],
+    "Hints": [
+    "Beat the eyes!"
+    ],
+    "Picture": ":/picture/Picture/Imgur (2).gif"
+},
+
+    "9": {
+    "Name": "Mutants",
+    "Category": 1,
+    "Upcategory": "Contents",
+    "Subcategories": [
+    "Death",
+    "Octopus",
+    "Glowworm",
+    "Shadowman"
+    ],
+    "Description": "Creatures that are hard to give any particular specification. They mutated other species. They have an ugly appearance and huge size.",
+    "Hints": "Good luck. She will come in handy."
+},
+
+    "10": {
+    "Name": "Death",
+    "Category": 2,
+    "Upcategory": "Mutants",
+    "Description": "The creature is nicknamed because of the shape of the jaw, which is similar to the hood of death, as well as limbs that resemble braids. It occurs at the places of death of many people.",
+    "Enemy": [
+    ""
+    ],
+    "Hints": [
+    "???"
+    ],
+    "Picture": ":/picture/Picture/Imgur (1).gif"
+},
+
+    "11": {
+    "Name": "Octopus",
+    "Category": 2,
+    "Upcategory": "Mutants",
+    "Description": "A monster from the depths. By hypothesis, it is an octopus mutant due to the similarity of origin and species. Drowns ships and small vessels. It stinks of fish.",
+    "Enemy": [
+    "Death"
+    ],
+    "Hints": [
+    "On land it weakens."
+    ],
+    "Picture": ":/picture/Picture/Imgur.gif"
+},
+
+    "12": {
+    "Name": "Glowworm",
+    "Category": 2,
+    "Upcategory": "Mutants",
+    "Description": "Small sized ugly fireflies. Mutated large clusters of firefly nests, which has acquired its mind. Sometimes they are not even aggressive towards people. Fly to a bright light.",
+    "Enemy": [
+    "Shadow"
+    ],
+    "Hints": [
+    "Extremely weak."
+    ],
+    "Picture": ":/picture/Picture/antiShadow.gif"
+},
+
+    "13": {
+    "Name": "Shadowman",
+    "Category": 2,
+    "Upcategory": "Mutants",
+    "Description": "Coming out of the darkness in it is born. He hates daylight, but at the same time it is harmless to him. Perhaps blind, but has a terrific scent. Born in dark caves and abandoned houses.",
+    "Enemy": [
+    ""
+    ],
+    "Hints": [
+    "Under the opened ribs is his heart."
+    ],
+    "Picture": ":/picture/Picture/Monstr.gif"
+},
+
+}
+
+

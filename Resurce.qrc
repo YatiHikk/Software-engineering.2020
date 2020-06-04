@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shrift/19246.ttf</file>
+        <file>Music/joystick-trigger-button-press_gyyt5ied (online-audio-converter.com).wav</file>
+        <file>JSONs/Bestiaria.json</file>
+        <file>Consol/Consol-1.png</file>
+    </qresource>
+    <qresource prefix="/picture">
+        <file>Picture/Imgur (1).gif</file>
+        <file>Picture/Imgur.gif</file>
+        <file>Picture/Lou randomly scribbles.gif</file>
+        <file>Picture/The Journey of Martinsen 962.gif</file>
+        <file>Picture/WiffleGif has the awesome gifs on the internets_ pixel art skeleton gifs, reaction gifs, cat gifs, and so much more_.gif</file>
+        <file>Picture/Take Notes from the Awesome Pixel Art in Duelyst.gif</file>
+        <file>Picture/Imgur2.gif</file>
+        <file>Picture/Imgur (2).gif</file>
+        <file>Picture/Monstr.gif</file>
+        <file>Picture/antiShadow.gif</file>
+    </qresource>
+</RCC>
